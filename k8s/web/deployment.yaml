@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: movies
-        image: rafaellguerra/rotten-potatoes:v1
+        image: rafaellguerra/rotten-potatoes
         resources:
           limits:
             memory: "128Mi"
